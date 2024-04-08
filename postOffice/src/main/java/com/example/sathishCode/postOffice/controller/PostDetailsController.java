@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.example.sathishCode.postOffice.outut.PostOfficeResponseBean;
+import com.example.sathishCode.postOffice.output.PostOfficeResponseBean;
 import com.example.sathishCode.postOffice.service.IPostService;
 
 @RestController

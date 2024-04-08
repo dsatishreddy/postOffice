@@ -1,4 +1,4 @@
-package com.example.sathishCode.postOffice.outut;
+package com.example.sathishCode.postOffice.output;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 

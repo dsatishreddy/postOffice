@@ -1,6 +1,6 @@
 package com.example.sathishCode.postOffice.service;
 
-import com.example.sathishCode.postOffice.outut.PostOfficeResponseBean;
+import com.example.sathishCode.postOffice.output.PostOfficeResponseBean;
 
 public interface IPostService {
 	

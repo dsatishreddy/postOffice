@@ -7,8 +7,8 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;
 
-import com.example.sathishCode.postOffice.outut.PostOfficeDetailsBean;
-import com.example.sathishCode.postOffice.outut.PostOfficeResponseBean;
+import com.example.sathishCode.postOffice.output.PostOfficeDetailsBean;
+import com.example.sathishCode.postOffice.output.PostOfficeResponseBean;
 import com.example.sathishCode.postOffice.service.IPostService;
 
 @Service("postalServiceImpl")
