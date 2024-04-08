@@ -18,3 +18,10 @@ public class PostOfficeApplication {
 		 return new RestTemplate();
 	 }
 }
+
+
+
+
+//http://localhost:8083/postal/byCity?city=Bangalore
+// In the key you can give it as city in the postman
+//In the value whatever city name you want you can provide it like mumbai, delhi, bangalore hyderabad etc....
